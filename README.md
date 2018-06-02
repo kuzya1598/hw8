@@ -1,15 +1,15 @@
 # hw8
 **Задание 1**
 + Использовала формулу "\n\r" и заменила это все на "\0". Таким образом было выполнено первое задание - удаление пустых строк.
-! https://github.com/kuzya1598/hw8/blob/master/i06O5qM2e14.jpg
++ ![alt text](https://github.com/kuzya1598/hw8/blob/master/i06O5qM2e14.jpg)
 
 **Задание 2**
 + Использовала формулу "[А-Я]*?слав" при учтении регистра, так как нужно было найти все вхождения(названия и имена) с корнем **слав**
-!https://github.com/kuzya1598/hw8/blob/master/dMl4EZWRheY.jpg
++ ![alt text](https://github.com/kuzya1598/hw8/blob/master/dMl4EZWRheY.jpg)
 
 **Задание 3**
 + Использовала для выполнения задания 2 ормулы, чтобы получить более полное и точное представление о кол-ве вхождений слова "Новгород". Результат первой формулы - 56, а второй - 59.
 + Первая формула: Нов(ѣ|ъ|о|а|у)город(ѣ|а|у|е|ом|ъ|цю)
-! [https://github.com/kuzya1598/hw8/blob/master/PAZ18Uap-mY.jpg]
++ ![alt text](https://github.com/kuzya1598/hw8/blob/master/PAZ18Uap-mY.jpg)
 + Вторая формула: Нов.?город(.|)*?
-![https://github.com/kuzya1598/hw8/blob/master/C3diPuVOM_o.jpg]
++ ![alt text](https://github.com/kuzya1598/hw8/blob/master/C3diPuVOM_o.jpg)
